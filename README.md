@@ -1,0 +1,4 @@
+# Sistema para Controle de estacionamento
+
+## Descrição
+<p align="center">A página index.html principal possui um formulário para cadastro de informações relacionadas a veículos e ao proprietário em um estacionamento. A página vagas.html mostra um grid, representando as vagas do estacionamento com o status relacionado a cada uma. Foi criado um style.css para estilizar as páginas e suas funcionalidades. Para a programação em JavaScript, três funções foram criadas, uma que salva o cadastro, uma que direciona a aplicação à página vagas.html, listando as vagas e mostrando o status de cada uma, e uma função para a exclusão de um registro e liberação de uma vaga. Nesta primeira etapa, não foi implementada a integração com o banco de dados, por isso as mudanças na página não são evidenciadas.</p> 
